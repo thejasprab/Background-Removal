@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-image = cv2.imread('test2.jpg')
+image = cv2.imread('test3.jpg')
 output = image
 # Set thresholds. Here, we are using the Hue, Saturation, Value color space model. We will be using these values to decide what values to show in the ranges using a minimum and maximum value. 
 #THESE VALUES CAN BE PLAYED AROUND FOR DIFFERENT COLORS
